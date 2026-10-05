@@ -1,0 +1,30 @@
+title: The Kolijar Chronicles
+tagline: The official info hub for the fantasy series by Philip A. Hughes
+description: Characters, kingdoms, magic and lore from The Kolijar Chronicles, a fantasy series by Philip A. Hughes.
+author: Philip A. Hughes
+
+# If your repo is named <username>.github.io leave baseurl empty.
+# If it's any other name (e.g. "kolijar"), set baseurl to "/kolijar" and url to "https://<username>.github.io".
+url: "https://philauthor46.github.io"
+baseurl: "/Kolijar-Hub"
+
+markdown: kramdown
+permalink: pretty
+
+# Navigation (edit freely)
+nav:
+  - title: Home
+    url: /
+  - title: Books
+    url: /books/
+  - title: Characters
+    url: /characters/
+  - title: World
+    url: /world/
+  - title: Glossary
+    url: /world/glossary/
+  - title: Timeline
+    url: /world/timeline/
+
+exclude:
+  - README.md
