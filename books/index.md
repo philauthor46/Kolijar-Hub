@@ -17,6 +17,6 @@ Read in this order:
 
 Companion guide: **Kolijar: The Traveller's Essential**, a world guide to the three kingdoms.
 
-https://www.amazon.co.uk/s?k=the+kolijar+chronicles&i=digital-text&crid=IQGVI6EZNIEB&sprefix=%2Cdigital-text%2C1443&ref=nb_sb_ss_recent_2_0_recent
+[Buy the series on Amazon UK](https://www.amazon.co.uk/s?k=the+kolijar+chronicles)
 
 *Add your links here: Amazon (Kindle and paperback), Barnes & Noble, Kobo, and the audiobook when it's live.*
