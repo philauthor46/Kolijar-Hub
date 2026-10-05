@@ -31,4 +31,4 @@ New to Kolijar? Begin with **[Seat of Embers]({{ "/books/seat-of-embers/" | rela
 
 ## Latest news
 
-*Add news posts here: new releases, audiobook updates, cover reveals.*
+
