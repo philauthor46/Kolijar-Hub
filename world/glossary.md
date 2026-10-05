@@ -23,4 +23,4 @@ spoiler: Book One
 | **The Crystal** | The island's beating heart and source of all power |
 | **First Order of Sorcery** | Order of sorcerers and knights, guardians of the crystal |
 
-*Keep adding terms. Alphabetical order helps readers.*
+
