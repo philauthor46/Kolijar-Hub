@@ -24,7 +24,7 @@ Some victories cost everything. Some truths change who you thought you were. And
 - **Author:** Philip A. Hughes
 - **Series:** The Kolijar Chronicles, Book 3
 - **Formats:** Kindle
-- **Buy:** *add links*
+- **Buy:** Buy the series on Amazon UK
 
 ## Previous
 
