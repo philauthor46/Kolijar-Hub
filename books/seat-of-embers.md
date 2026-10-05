@@ -23,7 +23,7 @@ Together they embark on a dangerous journey as Serafina learns harsh truths, dis
 - **Author:** Philip A. Hughes
 - **Series:** The Kolijar Chronicles, Book 1
 - **Formats:** Kindle, paperback
-- **Buy:** *add links*
+- **Buy:** [Buy the series on Amazon UK](https://www.amazon.co.uk/s?k=the+kolijar+chronicles)
 
 ## Characters in this book
 
