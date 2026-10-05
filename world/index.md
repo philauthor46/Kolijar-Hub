@@ -30,4 +30,4 @@ The Kolijar crystal is the island's beating heart and the source of all power ac
 ## The First Order of Sorcery
 A mysterious order of sorcerers and knights. See the [glossary]({{ "/world/glossary/" | relative_url }}).
 
-*Add maps, creature and plant pages, and the rune system here as you release them in the books.*
+
