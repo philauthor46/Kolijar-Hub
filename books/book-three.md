@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Book Three
+title: Echoes of Embers
 permalink: /books/book-three/
 spoiler: Books One and Two
 ---
@@ -9,7 +9,7 @@ spoiler: Books One and Two
 
 *The Kolijar Chronicles, Book Three*
 
-Echoes of Embers
+
 The crystal remembers what she has yet to learn.
 
 The war is over, but the reckoning has only begun. Queen Serafina Curatal carries a power she still doesn't fully understand — and a truth about its origin that could unmake her sense of who she is.
