@@ -15,13 +15,13 @@ Kolijar is an island with three kingdoms, each ruled by an ancient house. The th
 | **Harenjun** | Lome | Stag on green | Verekel |
 | **Lustralia** | Desallez | Phoenix on red | Pokaril |
 
-## Kreturia
+## Kreturia pronounced kreh-TOO-ree-ah
 Bright and almost fairy-like, with flowers and colour everywhere.
 
 ## Harenjun
 Forests and snow-capped mountains. Its people are artisans, such as bakers and sculptors, who love music and keep libraries devoted to the arts.
 
-## Lustralia
+## Lustralia pronounced lus-TRAH-lee-ah
 Structured, militaristic and full of statues. Its coastline is called Teverin.
 
 ## The Crystal
