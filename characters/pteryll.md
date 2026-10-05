@@ -12,4 +12,3 @@ spoiler: Book One (opening only)
 
 A trusted ally of Kreturia's royal family, Pteryll helps Serafina face the threat to the kingdom. Years earlier he imprisoned Leyanna after her thirst for power nearly cost Kolijar its crystal.
 
-*Add a short description, appearance notes and a portrait here.*
