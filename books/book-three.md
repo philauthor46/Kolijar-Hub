@@ -5,7 +5,7 @@ permalink: /books/book-three/
 spoiler: Books One and Two
 ---
 
-# Book Three
+Echoes of Embers
 
 *The Kolijar Chronicles, Book Three*
 
