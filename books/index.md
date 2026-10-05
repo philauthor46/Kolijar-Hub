@@ -19,4 +19,4 @@ Companion guide: **Kolijar: The Traveller's Essential**, a world guide to the th
 
 [Buy the series on Amazon UK](https://www.amazon.co.uk/s?k=the+kolijar+chronicles)
 
-*Add your links here: Amazon (Kindle and paperback), Barnes & Noble, Kobo, and the audiobook when it's live.*
+
