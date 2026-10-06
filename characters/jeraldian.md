@@ -1,3 +1,4 @@
+<img width="128" height="128" alt="Prince_Jeraldian" src="https://github.com/user-attachments/assets/747ca080-3233-4398-92c4-2d333dda9a69" />
 ---
 layout: default
 title: Jeraldian
