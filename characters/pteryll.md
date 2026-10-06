@@ -11,4 +11,5 @@ spoiler: Book One (opening only)
 **First appears:** [Seat of Embers]({{ "/books/seat-of-embers/" | relative_url }})
 
 A trusted ally of Kreturia's royal family, Pteryll helps Serafina face the threat to the kingdom. Years earlier he imprisoned Leyanna after her thirst for power nearly cost Kolijar its crystal.
+<img width="1264" height="1264" alt="Pteryll" src="https://github.com/user-attachments/assets/ed1b95a4-fd69-41a4-98e2-3df155f0587d" />
 
