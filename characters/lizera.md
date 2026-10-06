@@ -11,3 +11,5 @@ spoiler: Book One (opening only)
 **First appears:** [Seat of Embers]({{ "/books/seat-of-embers/" | relative_url }})
 
 Lizera has been Serafina's closest companion for years, offering loyalty, perspective, and a grounded presence amid court politics and danger. Her friendship is one of the few constants in Serafina's life, and it shapes the way the queen moves through the world.
+<img width="1408" height="768" alt="Lizera" src="https://github.com/user-attachments/assets/243b508d-d5f1-493c-aada-d6ee8b71d542" />
+
