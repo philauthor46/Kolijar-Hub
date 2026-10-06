@@ -1,9 +1,6 @@
 
 ---
-layout: default
-title: Pteryll Jurin
-permalink: /characters/pteryll/
-spoiler: Book One (opening only)
+
 ---
 
 # Pteryll Jurin
