@@ -11,3 +11,4 @@ spoiler: Book One (opening only)
 **First appears:** [Seat of Embers]({{ "/books/seat-of-embers/" | relative_url }})
 
 Marigal keeps the castle kitchens running and, more often than anyone expects, the people around him steady. His practical wisdom and quiet influence make him more useful to the court than his title suggests.
+<img width="1408" height="768" alt="Marigal" src="https://github.com/user-attachments/assets/8c4761a9-1914-4b0f-bd97-f226d997c30f" />
