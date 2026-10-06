@@ -14,9 +14,8 @@
 body {
   margin: 0;
   background-color: var(--bg);
-  background-image:
     linear-gradient(rgba(15, 18, 24, 0.58), rgba(15, 18, 24, 0.75)),
-    url("{{ '/assets/images/kolijar-map.jpg' | relative_url }}");
+  url("https://github.com/user-attachments/assets/49b9d8d4-16dc-4b0a-8444-a74d14a2c4d2");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
