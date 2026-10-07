@@ -19,7 +19,7 @@ spoiler: Book One
 | **Verekel** | Capital city of Harenjun |
 | **Pokaril** | Capital city of Lustralia |
 | **Teverin** | Lustralia's coastline |
-| **Petulira Mountains** | Mountain range and landmark of the island |
+| **Petulira Mountains** | (Pronounced PET-U-LEERA) Mountain range and landmark of the island |
 | **The Crystal** | The island's beating heart and source of all power |
 | **First Order of Sorcery** | Order of sorcerers and knights, guardians of the crystal |
 
