@@ -11,4 +11,4 @@ spoiler: Book One (opening only)
 **First appears:** [Seat of Embers]({{ "/books/seat-of-embers/" | relative_url }})
 
 King Herrellus was the ruler of Kreturia and the father of Serafina, shaping the kingdom's legacy through a reign that carried both duty and the burden of lineage.
-<img width="128" height="128" alt="King Herrellus" src="https://github.com/user-attachments/assets/9199d41e-cc0c-4aa2-8c18-3c20d2eeab18" />
+<img width="1408" height="768" alt="King Herrellus" src="https://github.com/user-attachments/assets/baaacc82-0d4f-4ce1-ab5b-053e000fc578" />
