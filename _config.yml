@@ -23,6 +23,12 @@ nav:
     url: /world/
   - title: Quotes
     url: /world/Quotes
+  - title: Fun Stuff
+    url: /fun-stuff/
+  - title: Guestbook
+    url: /guestbook/
+  - title: About the Author
+    url: /author/
   - title: Glossary
     url: /world/glossary/
   - title: Timeline
