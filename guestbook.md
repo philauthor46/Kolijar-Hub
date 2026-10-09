@@ -9,7 +9,7 @@ spoiler: None
 
 Welcome to the Kolijar Chronicles guestbook! Sign in and leave a note — whether it's a favorite quote, a wild theory, fan art you're working on, or just a thought about the world of Kolijar.
 
-**How to add your entry:** Edit this file on GitHub and add your message to the list below. Include your name (or username), the date, and your message.
+
 
 ---
 
