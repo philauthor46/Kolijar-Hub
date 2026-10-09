@@ -19,10 +19,10 @@ Kolijar is an island with three kingdoms, each ruled by an ancient house. The th
 Bright and almost fairy-like, with flowers and colour everywhere. Ruled by King Herrellus and Queen Reyira, seat of power is Drivaran castle
 
 ## Harenjun
-Forests and snow-capped mountains. Its people are artisans, such as bakers and sculptors, who love music and keep libraries devoted to the arts. Ruled by Parell and Maris Lome. Princesses Merinda and Narenna. 
+Forests and snow-capped mountains. Its people are artisans, such as bakers and sculptors, who love music and keep libraries devoted to the arts. Ruled by Parell and Maris Lome. Princesses Merinda and Narenna.
 
 ## Lustralia pronounced lus-TRAH-lee-ah
-Structured, militaristic and full of statues. Its coastline is called Teverin. Ruled by Janto and Generra Desallez. Prince Jeradlian.
+Structured, militaristic and full of statues. Its coastline is called Teverin. Ruled by Janto and Generra Desallez. Prince Jeraldian.
 
 ## The Crystal
 The Kolijar crystal is the island's beating heart and the source of all power across the three kingdoms.
@@ -30,4 +30,5 @@ The Kolijar crystal is the island's beating heart and the source of all power ac
 ## The First Order of Sorcery
 A mysterious order of sorcerers and knights. See the [glossary]({{ "/world/glossary/" | relative_url }}).
 
-
+## Quotes
+Explore memorable lines from the world of Kolijar in the [Quotes page]({{ "/world/Quotes/" | relative_url }}).
