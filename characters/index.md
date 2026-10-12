@@ -31,3 +31,4 @@ Each profile carries its own spoiler level. Profiles below only use what's revea
 | [King Herrellus]({{ "/characters/king-herrellus/" | relative_url }}) | Ruler of Kreturia and Serafina's father |
 | [Reyira]({{ "/characters/reyira/" | relative_url }}) | Queen of Kreturia |
 | [Leyissa]({{ "/characters/leyissa/" | relative_url }}) | Loyal friend of the Harenjun royal family |
+## Book Two: The Gathering Shadows
