@@ -17,5 +17,5 @@ Read in this order:
 | | [Kolijar:The Traveller's Essential]({{ Companion book/" | relative_url }}) | Available |
 Book four is underway, Book five the epic finale to the series will be coming soon, keep your eyes peeled. 
 [Buy the series on Amazon UK](https://www.amazon.co.uk/s?k=the+kolijar+chronicles)
-
+A series of Novella's titled The Kolijar Solo's will be available next year, these serve as standalone stories of the main characters, each one focusing on a moment in their lives that led them to where they are in the Kolijar world. 
 
