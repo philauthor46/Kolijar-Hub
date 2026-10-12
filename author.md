@@ -9,7 +9,7 @@ spoiler: None
 
 Author of The Kolijar Chronicles
 
-Philip A. Hughes is the creator of The Kolijar Chronicles, a fantasy series shaped by royal intrigue, ancient magic, and the difficult choices that come with power.
+Philip A. Hughes is the creator of The Kolijar Chronicles, a fantasy series shaped by royal intrigue, ancient magic, and the difficult choices that come with power. Born and raised in Mancheste, England. Started writing at a young age, and after showcasing his talents in English class, his writing journey started and low and behold, The Kolijar chronicles was born. 
 
 ## About the series
 
