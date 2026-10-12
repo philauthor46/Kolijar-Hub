@@ -22,7 +22,7 @@ Bright and almost fairy-like, with flowers and colour everywhere. Ruled by King 
 </div>
 
 ## Harenjun
-Forests and snow-capped mountains. Its people are artisans, such as bakers and sculptors, who love music and keep libraries devoted to the arts. Ruled by Parell and Maris Lome. Princesses Merinda [...]
+Forests and snow-capped mountains. Its people are artisans, such as bakers and sculptors, who love music and keep libraries devoted to the arts. Ruled by Parell and Maris Lome. Princesses Merinda and Narenna.
 
 <div class="sigil-wrap">
   <img class="sigil-zoom" width="128" height="128" alt="lome_128" src="https://github.com/user-attachments/assets/493dc2fa-feb3-477d-b2da-fc15f4f43060" />
