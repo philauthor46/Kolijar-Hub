@@ -11,9 +11,12 @@ Kolijar is an island with three kingdoms, each ruled by an ancient house. The th
 
 | Kingdom | Ruling house | Sigil | Capital / seat |
 |---------|--------------|-------|----------------|
-| **Kreturia** | Curatal | Lion on blue | Drivaran castle (village of Teyerun below) |
-| **Harenjun** | Lome | Stag on green | Verekel |
-| **Lustralia** | Desallez | Phoenix on red | Pokaril |
+| **Kreturia** | Curatal | Lion on blue | Drivaran castle (village of Teyerun below) |<img width="128" height="128" alt="lome_128" src="https://github.com/user-attachments/assets/7f66d133-555c-40d3-908d-31e6a4b14490" />
+
+| **Harenjun** | Lome | Stag on green | Verekel |<img width="128" height="128" alt="lome_128" src="https://github.com/user-attachments/assets/6b1df316-9c8b-403a-bdfc-309546fdc9c8" />
+
+| **Lustralia** | Desallez | Phoenix on red | Pokaril |<img width="128" height="128" alt="desallez_128" src="https://github.com/user-attachments/assets/b1e4ae36-8156-4e77-a73c-23b06c85690e" />
+
 
 ## Kreturia pronounced kreh-TOO-ree-ah
 Bright and almost fairy-like, with flowers and colour everywhere. Ruled by King Herrellus and Queen Reyira, seat of power is Drivaran castle
