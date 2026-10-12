@@ -31,4 +31,6 @@ Each profile carries its own spoiler level. Profiles below only use what's revea
 | [King Herrellus]({{ "/characters/king-herrellus/" | relative_url }}) | Ruler of Kreturia and Serafina's father |
 | [Reyira]({{ "/characters/reyira/" | relative_url }}) | Queen of Kreturia |
 | [Leyissa]({{ "/characters/leyissa/" | relative_url }}) | Loyal friend of the Harenjun royal family |
+
 ## Book Two: The Gathering Shadows
+Returning Characters from book one plus some new additions, detailed below are the new characters that have joined Serafina on her journey or are starting there own journeys.
