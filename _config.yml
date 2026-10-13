@@ -34,7 +34,7 @@ nav:
   - title: Timeline
     url: /world/timeline/
   - title: Other stuff
-  - url: /other stuff/
+    url: /other-stuff/
 
 exclude:
   - README.md
