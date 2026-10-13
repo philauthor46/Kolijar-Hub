@@ -33,6 +33,8 @@ nav:
     url: /world/glossary/
   - title: Timeline
     url: /world/timeline/
+  - title: Other stuff
+  - url: /other stuff/
 
 exclude:
   - README.md
