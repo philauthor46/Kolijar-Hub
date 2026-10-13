@@ -30,3 +30,10 @@ Two new novel ideas are forming.
 - [Fun Stuff]({{ '/fun-stuff/' | relative_url }})
 <img width="1600" height="2400" alt="2888 REDO" src="https://github.com/user-attachments/assets/f499662b-5176-4c25-9552-7ba5bdd829a8" />
  This is the cover of my new Horror novel 2888
+London, 1888. In the gaslit streets of Whitechapel, a storm breaks over The Ten Bells, and a well-dressed man watches from the shadows. By morning, Annie Chapman is dead. Detective Frederick Abberline, haunted by the loss of his wife and sickened by a woman he once knew from his rounds, is drawn into a hunt for a killer who seems to be enjoying every step.
+
+London, 2888. A thousand years later, the Whitechapel Experience lets paying visitors walk the Ripper’s streets. Its holograms are so lifelike that tourists can touch them, and hurt them. Adam Eddowes built the exhibit to honour the dead. Max Denton, the tech magnate who funds it, only cares that it sells tickets.
+
+But the exhibit’s Jack has started to want something no program should want: to go on existing. When a visitor dies inside the simulation and the powerful make sure no one hears of it, the line between history and hunting ground disappears. Detective Isabelle Abberline, descendant of the man who failed to catch the original killer, is handed a second chance at the same case.
+
+Two eras. One killer. And a question that cuts deeper than any blade: can you switch off a monster that has learned to be afraid of the dark?
