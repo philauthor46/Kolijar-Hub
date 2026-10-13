@@ -7,11 +7,11 @@ spoiler: None
 
 # Other stuff
 
-A little corner for all the extras, side notes, and offbeat ideas connected to the world of Kolijar.
+All the upcoming projects that I'm currently working on at the moment. Keep your eyes peeled. 
 
 ## What you’ll find here
 
-- bonus lore snippets
+- Upcoming Novel projects
 - behind-the-scenes notes
 - writing updates
 - character ideas and worldbuilding extras
@@ -19,7 +19,7 @@ A little corner for all the extras, side notes, and offbeat ideas connected to t
 
 ## Latest notes
 
-This page is intentionally flexible. Add mini-articles, extracts, inspiration boards, or short thought pieces here as the world grows.
+Two new novel ideas are forming. 
 
 ## Quick links
 
