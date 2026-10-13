@@ -5,13 +5,13 @@ title: Home
 
 <div class="hero" markdown="1">
 
-# The Kolijar Chronicles
+# The Kolijar Chronicles/Writing Hub
 
 <p class="tagline">Three kingdoms. One crystal. Some thrones must be won twice.</p>
 
 </div>
 
-Welcome to the official info hub for **The Kolijar Chronicles**, the fantasy series by **Philip A. Hughes**. Here you'll find the books, the people, the places and the magic of the island of Kolijar, organised so you can explore without stumbling into spoilers.
+Welcome to the official info hub for **The Kolijar Chronicles**, the fantasy series by **Philip A. Hughes**. Here you'll find the books, the people, the places and the magic of the island of Kolijar, organised so you can explore without stumbling into spoilers. Here you'll find info also on my other upcoming projects. 
 
 <div class="cards">
   <div class="card"><a href="{{ '/books/' | relative_url }}"><h3>The Books</h3><p>Blurbs, reading order and where to buy.</p></a></div>
