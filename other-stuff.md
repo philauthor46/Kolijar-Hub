@@ -28,3 +28,4 @@ Two new novel ideas are forming.
 - [Characters]({{ '/characters/' | relative_url }})
 - [World]({{ '/world/' | relative_url }})
 - [Fun Stuff]({{ '/fun-stuff/' | relative_url }})
+<img width="1600" height="2400" alt="2888 2 0" src="https://github.com/user-attachments/assets/395f0295-5394-4a9b-a894-0d5401a123cb" /> This is the cover of my new Horror novel 2888
