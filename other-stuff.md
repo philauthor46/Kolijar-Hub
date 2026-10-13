@@ -28,9 +28,9 @@ Two new novel ideas are forming.
 - [Characters]({{ '/characters/' | relative_url }})
 - [World]({{ '/world/' | relative_url }})
 - [Fun Stuff]({{ '/fun-stuff/' | relative_url }})
-<img width="1600" height="2400" alt="2888 REDO" src="https://github.com/user-attachments/assets/f499662b-5176-4c25-9552-7ba5bdd829a8" />
  This is the cover of my new Horror novel 2888
 London, 1888. In the gaslit streets of Whitechapel, a storm breaks over The Ten Bells, and a well-dressed man watches from the shadows. By morning, Annie Chapman is dead. Detective Frederick Abberline, haunted by the loss of his wife and sickened by a woman he once knew from his rounds, is drawn into a hunt for a killer who seems to be enjoying every step.
+<img width="1600" height="2400" alt="Canva AI Image 13 Oct 2026, 14_34_22" src="https://github.com/user-attachments/assets/7956ede4-c935-40a4-a302-34757c77e99a" />
 
 London, 2888. A thousand years later, the Whitechapel Experience lets paying visitors walk the Ripper’s streets. Its holograms are so lifelike that tourists can touch them, and hurt them. Adam Eddowes built the exhibit to honour the dead. Max Denton, the tech magnate who funds it, only cares that it sells tickets.
 
