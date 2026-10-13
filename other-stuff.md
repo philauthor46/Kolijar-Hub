@@ -29,6 +29,6 @@ Two new novel ideas are forming.
 - [World]({{ '/world/' | relative_url }})
 - [Fun Stuff]({{ '/fun-stuff/' | relative_url }})
 
-  <img width="1600" height="2400" alt="Canva AI Image 13 Oct 2026, 14_34_22" src="https://github.com/user-attachments/assets/f7da0ba8-11b4-447e-b79b-c20dc130a454" />
   2888 is a dual-timeline horror and sci-fi thriller. A Victorian detective hunts Jack the Ripper in 1888 Whitechapel, while a thousand years later his descendant faces a holographic Ripper that has become sentient and wants to survive.
+<img width="256" height="256" alt="2888_256x256" src="https://github.com/user-attachments/assets/23a9a944-bb0d-40f1-8df2-8be75faa618e" />
 
