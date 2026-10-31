@@ -5,9 +5,8 @@ permalink: /books/seat-of-embers/
 spoiler: None (blurb only)
 ---
 
-<div class="book-cover">
-  <img src="{{ '/assets/images/seat-of-embers-cover.svg' | relative_url }}" alt="Seat of Embers cover art">
-</div>
+<img width="1500" height="2400" alt="Scythe31 ebook (2)" src="https://github.com/user-attachments/assets/bc77e18a-a03c-40c2-8cb0-88ec610ea564" />
+
 
 # Seat of Embers
 
