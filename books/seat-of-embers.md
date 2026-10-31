@@ -5,7 +5,7 @@ permalink: /books/seat-of-embers/
 spoiler: None (blurb only)
 ---
 
-<img width="1500" height="2400" alt="Scythe31 ebook (2)" src="https://github.com/user-attachments/assets/bc77e18a-a03c-40c2-8cb0-88ec610ea564" />
+<img width="900" height="1440" alt="Scythe31 ebook (2)" src="https://github.com/user-attachments/assets/bc77e18a-a03c-40c2-8cb0-88ec610ea564" />
 
 
 # Seat of Embers
@@ -15,7 +15,7 @@ spoiler: None (blurb only)
 > A Kingdom Lost. A Crown Reclaimed.
 > Some thrones must be won twice.
 
-Queen Serafina's rule over Kreturia collapses when a vengeful witch attacks Kolijar seeking an ancient relic. Pteryll Jurin, a trusted ally and Knight of the First Order of Sorcery, helps her confound...
+Queen Serafina's rule over Kreturia collapses when a vengeful witch attacks Kolijar seeking an ancient relic. Pteryll Jurin, a trusted ally and Knight of the First Order of Sorcery, helps her conf[...]
 
 Years earlier, Jurin had imprisoned Leyanna, whose thirst for power almost cost the kingdom the Kolijar crystal, the island's beating heart and the source of all power across the three kingdoms.
 
