@@ -5,7 +5,7 @@ permalink: /books/seat-of-embers/
 spoiler: None (blurb only)
 ---
 
-<img width="900" height="1440" alt="Scythe31 ebook (2)" src="https://github.com/user-attachments/assets/bc77e18a-a03c-40c2-8cb0-88ec610ea564" />
+<img width="600" height="960" alt="Scythe31 ebook (2)" src="https://github.com/user-attachments/assets/bc77e18a-a03c-40c2-8cb0-88ec610ea564" />
 
 
 # Seat of Embers
